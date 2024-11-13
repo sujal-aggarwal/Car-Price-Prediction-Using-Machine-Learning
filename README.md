@@ -67,10 +67,10 @@ The dataset contains information on multiple parameters that impact car prices, 
 
 Below is a comparison of model performance:
 
-| Model            | RMSE (Test Set) | R² Score |
-|------------------|-----------------|----------|
-| Linear Regression| 0.XX            | 0.XX     |
-| Lasso Regression | 0.XX            | 0.XX     |
+| Model            | R² Score |
+|------------------|----------|
+| Linear Regression| 0.83     |
+| Lasso Regression | 0.87     |
 
 **Conclusion**: Lasso Regression often provides a better fit by reducing the impact of irrelevant features.
 
