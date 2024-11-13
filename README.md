@@ -11,7 +11,6 @@ Welcome to the Car Price Prediction Model repository! This project uses Linear a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -103,15 +102,15 @@ python train_model.py --model lasso    # For Lasso Regression
 
 After training, you can make predictions by running:
 ```bash
-python predict.py --model lasso --input "sample_input.json"
+python model.ipynb
 ```
 
 Sample JSON format for `sample_input.json`:
 ```json
 {
-  "mileage": 12000,
+  "Car Name": SX4,
   "year": 2015,
-  "engine_capacity": 1500,
+  "Kms Driven": 9500,
   "transmission": "Automatic",
   "fuel_type": "Petrol",
   "owners": 1
@@ -126,14 +125,6 @@ We welcome contributions to improve this project. Feel free to fork the reposito
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <p align="center">⭐ If you find this project helpful, please give it a star! ⭐</p>
 
 ---
-
-This README provides a comprehensive overview of the project and guides users through setup, usage, and understanding the results. Replace the placeholder image URLs and update any project-specific values (like model metrics) as needed.
