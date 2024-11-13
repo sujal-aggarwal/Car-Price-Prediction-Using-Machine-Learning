@@ -46,7 +46,7 @@ The dataset contains information on multiple parameters that impact car prices, 
 - And more...
 
 <p align="center">
-    ![alt text](image.png)
+    <img src="DatasetImage.png" alt="Sample Dataset" width="600"/>
 </p>
 
 ---
