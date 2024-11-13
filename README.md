@@ -20,7 +20,7 @@ Welcome to the Car Price Prediction Model repository! This project uses Linear a
 This model leverages both **Linear Regression** and **Lasso Regression** techniques to estimate the market price of used cars. By considering multiple key features, it helps buyers and sellers make informed decisions.
 
 <p align="center">
-    <img src="https://your-image-url.com" alt="Car Prediction Overview" width="600"/>
+    <img src="UI/UI_Screenshot.png" alt="Car Prediction Overview" width="600"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ The dataset contains information on multiple parameters that impact car prices, 
 - And more...
 
 <p align="center">
-    <img src="https://your-dataset-image-url.com" alt="Sample Dataset" width="600"/>
+    ![alt text](image.png)
 </p>
 
 ---
