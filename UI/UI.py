@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
-model = joblib.load('model.pkl') 
+model = joblib.load('UI\model.pkl') 
 
 # Define the UI in Streamlit
 st.title("Car Price Prediction App")
