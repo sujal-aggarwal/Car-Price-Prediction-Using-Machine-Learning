@@ -37,9 +37,9 @@ This model leverages both **Linear Regression** and **Lasso Regression** techniq
 
 The dataset contains information on multiple parameters that impact car prices, such as:
 
-- **Mileage**
+- **Car Name**
 - **Year of Manufacture**
-- **Engine Capacity**
+- **Selling Price**
 - **Transmission Type**
 - **Fuel Type**
 - **Number of Owners**
